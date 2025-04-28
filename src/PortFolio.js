@@ -54,12 +54,12 @@ const projects = [
   {
     title: "Reverse Unselection UI",
     description: "Unique feature allowing users to unselect items from reverse order efficiently.",
-    link: "https://vercel.com/siddharths-projects-24a3e97f/colour",
+    link: "https://colour-gray.vercel.app/",
   },
   {
     title: "Smart AutoComplete Search",
     description: "Intelligent autocomplete feature for fast and predictive text inputs.",
-    link: "https://vercel.com/siddharths-projects-24a3e97f/autocomplete",
+    link: "https://autocomplete-mocha.vercel.app/",
   },
 ];
 
